@@ -1,4 +1,4 @@
-# Ollama App
+ # Ollama App
 
 A modern and easy-to-use client for Ollama. Have the greatest experience while keeping everything private and in your local network.
 
